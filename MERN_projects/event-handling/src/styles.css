@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.css-input {
+  border-width: 2px;
+  border-color: red ;
+  border-style: solid;
+  font-size: 22px;
+  padding: 10px;
+  background-color: pink;
+  border-radius: 15px;
+}
+
+.css-input:focus{
+outline: none;
+}
+input{
+  display: inline-block;
+}
+        
